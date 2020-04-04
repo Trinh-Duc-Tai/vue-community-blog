@@ -31,6 +31,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ----------------------------------------------
  npm install axios == yarn add axios
 -----------------------------------------------
+npm install --save vue-router
 
 <!-- them fa-spin để quay như thật  -->
 <i class="fas fa-spin fa-spinner" v-if="loading"></i> 
