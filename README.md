@@ -119,3 +119,4 @@ headers: {
  >To create a production build, run npm run build
 <!-- sau khi build xong sẽ xuất hiện 1 thư mục tên dist  -->
 -----------------------------------------------
+refer: https://github.com/bahdcasts/vue-community-blog
